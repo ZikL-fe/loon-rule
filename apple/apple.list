@@ -1,0 +1,21 @@
+# Apple Intelligence & Siri
+DOMAIN-KEYWORD,siri
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gs-loc-cn.apple.com
+
+# OpenAI / ChatGPT (Siri 扩展)
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+
+# Apple 系统、配置与 iCloud 网关
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN-SUFFIX,smp-device-content.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN,gateway.icloud.com
+DOMAIN,p150-acsegateway.icloud.com
+DOMAIN,setup.icloud.com
+DOMAIN-SUFFIX,icloud-content.com
