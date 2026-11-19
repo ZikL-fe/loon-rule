@@ -1,9 +1,17 @@
-# Apple Intelligence & Siri
+# Apple Intelligence & Siri 核心域名
 DOMAIN-KEYWORD,siri
-DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,gs-loc-cn.apple.com
+
+# Apple Intelligence 私有云计算与中继 (Private Cloud Compute / Relay)
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,cp4.cloudflare.com
 
 # OpenAI / ChatGPT (Siri 扩展)
 DOMAIN-SUFFIX,chatgpt.com
